@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'rake','~>12.3', :require  => false
+gem 'minitar','~>0.6', :require  => false
+gem 'highline','~>1.7', :require  => false
+gem 'erubis','~>2.7', :require => false
+gem 'gaudi','~>0.5', :require => false
+gem 'json','~>2.1', :require => false
+gem 'rubyzip','~>1.2', :require => false
+gem 'patir','~>0.9', :require => false
+gem 'graph', :require => false
